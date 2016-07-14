@@ -1,4 +1,4 @@
-# My dotfiles for win
+# My dotfiles for Win
 
 ## Instalation
 
@@ -18,6 +18,11 @@ $ .\install.bat
 => Notepad++ ✔
 => Skype ✔
 ```
+
+Contributors
+------------
+
+[Carlos Linhares](https://plus.google.com/117393571272273909691/posts)
 
 ## License
 
