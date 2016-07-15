@@ -9,14 +9,16 @@ $ .\install.bat
 ## Programs...
 
 ```
-=> 7zip ✔
-=> Winrar ✔
-=> Java ✔
-=> CCleaner ✔
-=> Chrome ✔
+=> Chocolatey ✔
+=> Flash Player Plugin ✔
+=> Flash Player ActiveX ✔
+=> Java SE ✔
+=> Java SE Runtime Environment ✔
+=> Google Chrome ✔
 => Firefox ✔
 => Notepad++ ✔
-=> Skype ✔
+=> 7-Zip ✔
+=> WinRAR ✔
 ```
 
 Contributors
@@ -26,4 +28,4 @@ Contributors
 
 ## License
 
-Code is under [MIT](http://davidsonfellipe.mit-license.org) license and content is under [Creative Commons BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)
+Code is under [MIT](https://en.wikipedia.org/wiki/MIT_License) license and content is under [Creative Commons BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)
