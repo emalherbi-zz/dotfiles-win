@@ -26,6 +26,7 @@ $ .\install.bat
 => Firefox ✔
 => Google Drive ✔
 => Dropbox ✔
+=> ownCloud ✔
 => LibreOffice ✔
 => Adobe Reader DC ✔
 => Notepad++ ✔

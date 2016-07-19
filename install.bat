@@ -134,6 +134,14 @@ SET PROGRAM=dropbox
 
 call chocolatey/install.bat
 
+rem ------------------------------------- Install ownCloud
+
+SET TITLE=ownCloud
+SET PACKAGE=owncloud
+SET PROGRAM=owncloud-client
+
+call chocolatey/install.bat
+
 rem ------------------------------------- Install LibreOffice
 
 SET TITLE=LibreOffice
