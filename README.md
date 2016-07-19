@@ -14,11 +14,12 @@ $ .\install.bat
 => Flash Player ActiveX ✔
 => Java SE ✔
 => Java SE Runtime Environment ✔
+=> 7-Zip ✔
+=> WinRAR ✔
 => Google Chrome ✔
 => Firefox ✔
 => Notepad++ ✔
-=> 7-Zip ✔
-=> WinRAR ✔
+=> Adobe Reader DC ✔
 ```
 
 Contributors

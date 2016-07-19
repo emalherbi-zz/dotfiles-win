@@ -24,43 +24,86 @@ call chocolatey/install-chocolatey.bat
 
 rem ------------------------------------- Install Flash Player Plugin
 
-call chocolatey/install-flashplayerplugin.bat
+SET TITLE=Flash Player Plugin
+SET PACKAGE=flashplayerplugin
+SET PROGRAM=flashplayerplugin
+
+call chocolatey/install.bat
 
 rem ------------------------------------- Install Flash Player ActiveX
 
-call chocolatey/install-flashplayeractivex.bat
+SET TITLE=Flash Player ActiveX
+SET PACKAGE=flashplayeractivex
+SET PROGRAM=flashplayeractivex
+
+call chocolatey/install.bat
 
 rem ------------------------------------- Install Java SE
 
-call chocolatey/install-jdk8.bat
+SET TITLE=Java SE
+SET PACKAGE=jdk8
+SET PROGRAM=jdk8
+
+call chocolatey/install.bat
 
 rem ------------------------------------- Install Java SE Runtime Environment
 
-call chocolatey/install-jre8.bat
+SET TITLE=Java SE Runtime Environment
+SET PACKAGE=jre8
+SET PROGRAM=jre8
 
-rem ------------------------------------- Install Google Chrome
-
-call chocolatey/install-googlechrome.bat
-
-rem ------------------------------------- Install Firefox
-
-call chocolatey/install-firefox.bat
-
-rem ------------------------------------- Install Notepad++
-
-call chocolatey/install-notepadplusplus.bat
+call chocolatey/install.bat
 
 rem ------------------------------------- Install 7-Zip
 
-call chocolatey/install-7zip.bat
+SET TITLE=7-Zip
+SET PACKAGE=7zip
+SET PROGRAM=7zip
+
+call chocolatey/install.bat
 
 rem ------------------------------------- Install WinRAR
 
-call chocolatey/install-winrar.bat
+SET TITLE=WinRAR
+SET PACKAGE=winrar
+SET PROGRAM=winrar
+
+call chocolatey/install.bat
+
+rem ------------------------------------- Install Google Chrome
+
+SET TITLE=Google Chrome
+SET PACKAGE=GoogleChrome
+SET PROGRAM=googlechrome
+
+call chocolatey/install.bat
+
+rem ------------------------------------- Install Firefox
+
+SET TITLE=Firefox
+SET PACKAGE=Firefox
+SET PROGRAM=firefox
+
+call chocolatey/install.bat
+
+rem ------------------------------------- Install Notepad++
+
+SET TITLE=Notepad++
+SET PACKAGE=notepadplusplus
+SET PROGRAM=notepadplusplus
+
+call chocolatey/install.bat
+
+rem ------------------------------------- Install Adobe Reader DC
+
+SET TITLE=Adobe Reader DC
+SET PACKAGE=adobereader
+SET PROGRAM=adobereader
+
+call chocolatey/install.bat
 
 rem ------------------------------------- Finish
 
-rem adobereader
 rem teamviewer
 rem ccleaner
 rem skype
@@ -77,7 +120,6 @@ rem android-sdk
 rem androidstudio
 rem node
 
-echo.
 echo ===============================================================================
 echo FINISH
 echo ===============================================================================

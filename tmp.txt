@@ -1,0 +1,11 @@
+7zip 16.02
+7zip.install 16.02
+adobereader 2015.007.20033
+chocolatey 0.9.10.3
+Firefox 47.0.1
+flashplayeractivex 22.0.0.210
+flashplayerplugin 22.0.0.209
+GoogleChrome 51.0.2704.106
+jre8 8.0.91
+notepadplusplus.install 6.9.2
+10 packages installed.
