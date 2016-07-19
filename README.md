@@ -12,21 +12,32 @@ $ .\install.bat
 
 ```
 => Chocolatey ✔
+
 => Flash Player Plugin ✔
 => Flash Player ActiveX ✔
 => Java SE ✔
 => Java SE Runtime Environment ✔
 => 7-Zip ✔
 => WinRAR ✔
+=> CCleaner ✔
 => Skype ✔
+=> Spark ✔
+=> Psi ✔
 => Google Chrome ✔
 => Firefox ✔
-=> Notepad++ ✔
+=> Google Drive ✔
+=> Dropbox ✔
+=> LibreOffice ✔
 => Adobe Reader DC ✔
+=> Notepad++ ✔
 => TeamViewer ✔
+=> Ammyy Admin ✔
 => FileZilla ✔
-=> CCleaner ✔
 => Compare It ✔
+=> Inno Setup ✔
+=> TortoiseSVN ✔
+=> Atom ✔
+=> Aptana Studio ✔
 ```
 
 Contributors

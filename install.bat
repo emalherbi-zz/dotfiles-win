@@ -70,11 +70,35 @@ SET PROGRAM=winrar
 
 call chocolatey/install.bat
 
+rem ------------------------------------- Install CCleaner
+
+SET TITLE=CCleaner
+SET PACKAGE=ccleaner
+SET PROGRAM=ccleaner
+
+call chocolatey/install.bat
+
 rem ------------------------------------- Install Skype
 
 SET TITLE=Skype
 SET PACKAGE=Skype
 SET PROGRAM=skype
+
+call chocolatey/install.bat
+
+rem ------------------------------------- Install Spark
+
+SET TITLE=Spark
+SET PACKAGE=spark
+SET PROGRAM=spark
+
+call chocolatey/install.bat
+
+rem ------------------------------------- Install Psi
+
+SET TITLE=Psi
+SET PACKAGE=psi
+SET PROGRAM=psi
 
 call chocolatey/install.bat
 
@@ -94,11 +118,27 @@ SET PROGRAM=firefox
 
 call chocolatey/install.bat
 
-rem ------------------------------------- Install Notepad++
+rem ------------------------------------- Install Google Drive
 
-SET TITLE=Notepad++
-SET PACKAGE=notepadplusplus
-SET PROGRAM=notepadplusplus
+SET TITLE=Google Drive
+SET PACKAGE=googledrive
+SET PROGRAM=googledrive
+
+call chocolatey/install.bat
+
+rem ------------------------------------- Install Dropbox
+
+SET TITLE=Dropbox
+SET PACKAGE=dropbox
+SET PROGRAM=dropbox
+
+call chocolatey/install.bat
+
+rem ------------------------------------- Install LibreOffice
+
+SET TITLE=LibreOffice
+SET PACKAGE=libreoffice
+SET PROGRAM=libreoffice
 
 call chocolatey/install.bat
 
@@ -110,11 +150,27 @@ SET PROGRAM=adobereader
 
 call chocolatey/install.bat
 
+rem ------------------------------------- Install Notepad++
+
+SET TITLE=Notepad++
+SET PACKAGE=notepadplusplus
+SET PROGRAM=notepadplusplus
+
+call chocolatey/install.bat
+
 rem ------------------------------------- Install TeamViewer
 
 SET TITLE=TeamViewer
 SET PACKAGE=teamviewer
 SET PROGRAM=teamviewer
+
+call chocolatey/install.bat
+
+rem ------------------------------------- Install Ammyy Admin
+
+SET TITLE=Ammyy Admin
+SET PACKAGE=ammyy
+SET PROGRAM=ammyy-admin
 
 call chocolatey/install.bat
 
@@ -126,14 +182,6 @@ SET PROGRAM=filezilla
 
 call chocolatey/install.bat
 
-rem ------------------------------------- Install CCleaner
-
-SET TITLE=CCleaner
-SET PACKAGE=ccleaner
-SET PROGRAM=ccleaner
-
-call chocolatey/install.bat
-
 rem ------------------------------------- Install Compare It
 
 SET TITLE=Compare It
@@ -142,10 +190,40 @@ SET PROGRAM=compareit
 
 call chocolatey/install.bat
 
+rem ------------------------------------- Install Inno Setup
+
+SET TITLE=Inno Setup
+SET PACKAGE=innosetup
+SET PROGRAM=innosetup
+
+call chocolatey/install.bat
+
+rem ------------------------------------- Install TortoiseSVN
+
+SET TITLE=TortoiseSVN
+SET PACKAGE=tortoisesvn
+SET PROGRAM=tortoisesvn
+
+call chocolatey/install.bat
+
+rem ------------------------------------- Install Atom
+
+SET TITLE=Atom
+SET PACKAGE=atom
+SET PROGRAM=atom
+
+call chocolatey/install.bat
+
+rem ------------------------------------- Install Aptana Studio
+
+SET TITLE=Aptana Studio
+SET PACKAGE=aptana
+SET PROGRAM=aptana-studio
+
+call chocolatey/install.bat
+
 rem ------------------------------------- Finish
 
-rem tortoisesvn
-rem innosetup
 rem aptana-studio
 rem android-sdk
 rem androidstudio
