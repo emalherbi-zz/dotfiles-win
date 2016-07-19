@@ -12,7 +12,6 @@ $ .\install.bat
 
 ```
 => Chocolatey ✔
-
 => Flash Player Plugin ✔
 => Flash Player ActiveX ✔
 => Java SE ✔
