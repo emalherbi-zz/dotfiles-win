@@ -70,6 +70,14 @@ SET PROGRAM=winrar
 
 call chocolatey/install.bat
 
+rem ------------------------------------- Install Skype
+
+SET TITLE=Skype
+SET PACKAGE=Skype
+SET PROGRAM=skype
+
+call chocolatey/install.bat
+
 rem ------------------------------------- Install Google Chrome
 
 SET TITLE=Google Chrome
@@ -102,17 +110,40 @@ SET PROGRAM=adobereader
 
 call chocolatey/install.bat
 
+rem ------------------------------------- Install TeamViewer
+
+SET TITLE=TeamViewer
+SET PACKAGE=teamviewer
+SET PROGRAM=teamviewer
+
+call chocolatey/install.bat
+
+rem ------------------------------------- Install FileZilla
+
+SET TITLE=FileZilla
+SET PACKAGE=filezilla
+SET PROGRAM=filezilla
+
+call chocolatey/install.bat
+
+rem ------------------------------------- Install CCleaner
+
+SET TITLE=CCleaner
+SET PACKAGE=ccleaner
+SET PROGRAM=ccleaner
+
+call chocolatey/install.bat
+
+rem ------------------------------------- Install Compare It
+
+SET TITLE=Compare It
+SET PACKAGE=compareit
+SET PROGRAM=compareit
+
+call chocolatey/install.bat
+
 rem ------------------------------------- Finish
 
-rem teamviewer
-rem ccleaner
-rem skype
-
-rem support
-rem filezilla
-rem compareit
-
-rem development
 rem tortoisesvn
 rem innosetup
 rem aptana-studio

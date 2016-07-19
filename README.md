@@ -3,6 +3,8 @@
 ## Instalation
 
 ```bash
+$ git clone https://github.com/emalherbi/dotfiles-win.git && cd dotfiles-win && .\install.bat
+or
 $ .\install.bat
 ```
 
@@ -16,10 +18,15 @@ $ .\install.bat
 => Java SE Runtime Environment ✔
 => 7-Zip ✔
 => WinRAR ✔
+=> Skype ✔
 => Google Chrome ✔
 => Firefox ✔
 => Notepad++ ✔
 => Adobe Reader DC ✔
+=> TeamViewer ✔
+=> FileZilla ✔
+=> CCleaner ✔
+=> Compare It ✔
 ```
 
 Contributors
