@@ -137,7 +137,7 @@ call chocolatey/install.bat
 rem ------------------------------------- Install ownCloud
 
 SET TITLE=ownCloud
-SET PACKAGE=owncloud
+SET PACKAGE=owncloud-client
 SET PROGRAM=owncloud-client
 
 call chocolatey/install.bat
@@ -177,7 +177,7 @@ call chocolatey/install.bat
 rem ------------------------------------- Install Ammyy Admin
 
 SET TITLE=Ammyy Admin
-SET PACKAGE=ammyy
+SET PACKAGE=ammyy-admin
 SET PROGRAM=ammyy-admin
 
 call chocolatey/install.bat
@@ -225,7 +225,7 @@ call chocolatey/install.bat
 rem ------------------------------------- Install Aptana Studio
 
 SET TITLE=Aptana Studio
-SET PACKAGE=aptana
+SET PACKAGE=aptana-studio
 SET PROGRAM=aptana-studio
 
 call chocolatey/install.bat
