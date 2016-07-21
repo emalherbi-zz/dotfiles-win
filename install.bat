@@ -230,6 +230,14 @@ SET PROGRAM=aptana-studio
 
 call chocolatey/install.bat
 
+rem ------------------------------------- Install PDFCreator
+
+SET TITLE=PDFCreator
+SET PACKAGE=pdfcreator
+SET PROGRAM=pdfcreator
+
+call chocolatey/install.bat
+
 rem ------------------------------------- Finish
 
 rem aptana-studio

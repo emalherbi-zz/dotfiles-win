@@ -38,6 +38,7 @@ $ .\install.bat
 => TortoiseSVN ✔
 => Atom ✔
 => Aptana Studio ✔
+=> PDF Creator ✔
 ```
 
 Contributors
