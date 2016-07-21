@@ -39,6 +39,7 @@ $ .\install.bat
 => Atom ✔
 => Aptana Studio ✔
 => PDF Creator ✔
+=> HWMonitor ✔
 ```
 
 Contributors

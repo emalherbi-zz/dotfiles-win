@@ -230,11 +230,19 @@ SET PROGRAM=aptana-studio
 
 call chocolatey/install.bat
 
-rem ------------------------------------- Install PDFCreator
+rem ------------------------------------- Install PDFCreator 
 
 SET TITLE=PDFCreator
-SET PACKAGE=pdfcreator
+SET PACKAGE=PDFCreator
 SET PROGRAM=pdfcreator
+
+call chocolatey/install.bat
+
+rem ------------------------------------- Install HWMonitor
+
+SET TITLE=HWMonitor
+SET PACKAGE=hwmonitor
+SET PROGRAM=hwmonitor
 
 call chocolatey/install.bat
 
