@@ -15,12 +15,19 @@ echo "$$$$$$$/   $$$$$$/     $$/    $$/       $$$$$$/ $$$$$$$$/ $$$$$$$$/  $$$$$
 
 echo.
 echo ===============================================================================
-echo START - LAST UPDATE: 2016-07-15
+echo START - LAST UPDATE: 2016-07-25
 echo ===============================================================================
 
 rem ------------------------------------- Install Chocolatey
 
 call chocolatey/install-chocolatey.bat
+
+rem ------------------------------------- Install All Programs
+
+echo.
+echo ===============================================================================
+SET /P OPALL=Install All Programs? (y/n):
+echo ===============================================================================
 
 rem ------------------------------------- Install Flash Player Plugin
 
@@ -248,7 +255,6 @@ call chocolatey/install.bat
 
 rem ------------------------------------- Finish
 
-rem aptana-studio
 rem android-sdk
 rem androidstudio
 rem node
