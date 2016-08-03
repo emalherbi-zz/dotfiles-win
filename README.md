@@ -18,6 +18,7 @@ $ .\install.bat
 => Java SE Runtime Environment ✔
 => 7-Zip ✔
 => WinRAR ✔
+=> HWMonitor ✔
 => CCleaner ✔
 => Skype ✔
 => Spark ✔
@@ -29,6 +30,7 @@ $ .\install.bat
 => ownCloud ✔
 => LibreOffice ✔
 => Adobe Reader DC ✔
+=> PDF Creator ✔
 => Notepad++ ✔
 => TeamViewer ✔
 => Ammyy Admin ✔
@@ -38,8 +40,6 @@ $ .\install.bat
 => TortoiseSVN ✔
 => Atom ✔
 => Aptana Studio ✔
-=> PDF Creator ✔
-=> HWMonitor ✔
 ```
 
 Contributors

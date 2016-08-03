@@ -77,6 +77,14 @@ SET PROGRAM=winrar
 
 call chocolatey/install.bat
 
+rem ------------------------------------- Install HWMonitor
+
+SET TITLE=HWMonitor
+SET PACKAGE=hwmonitor
+SET PROGRAM=hwmonitor
+
+call chocolatey/install.bat
+
 rem ------------------------------------- Install CCleaner
 
 SET TITLE=CCleaner
@@ -165,6 +173,14 @@ SET PROGRAM=adobereader
 
 call chocolatey/install.bat
 
+rem ------------------------------------- Install PDFCreator
+
+SET TITLE=PDFCreator
+SET PACKAGE=PDFCreator
+SET PROGRAM=pdfcreator
+
+call chocolatey/install.bat
+
 rem ------------------------------------- Install Notepad++
 
 SET TITLE=Notepad++
@@ -221,6 +237,14 @@ SET PROGRAM=tortoisesvn
 
 call chocolatey/install.bat
 
+rem ------------------------------------- Install Python 2
+
+SET TITLE=Python 2
+SET PACKAGE=python2
+SET PROGRAM=python2
+
+call chocolatey/install.bat
+
 rem ------------------------------------- Install Atom
 
 SET TITLE=Atom
@@ -237,27 +261,20 @@ SET PROGRAM=aptana-studio
 
 call chocolatey/install.bat
 
-rem ------------------------------------- Install PDFCreator 
+rem ------------------------------------- Install Node JS
 
-SET TITLE=PDFCreator
-SET PACKAGE=PDFCreator
-SET PROGRAM=pdfcreator
-
-call chocolatey/install.bat
-
-rem ------------------------------------- Install HWMonitor
-
-SET TITLE=HWMonitor
-SET PACKAGE=hwmonitor
-SET PROGRAM=hwmonitor
+SET TITLE=Node JS
+SET PACKAGE=nodejs
+SET PROGRAM=nodejs
 
 call chocolatey/install.bat
 
 rem ------------------------------------- Finish
 
+rem TODO
+rem node/install.bat
 rem android-sdk
 rem androidstudio
-rem node
 
 echo ===============================================================================
 echo FINISH
