@@ -7,7 +7,7 @@ $ Set-ExecutionPolicy Unrestricted
 $ git clone https://github.com/emalherbi/dotfiles-win.git && cd dotfiles-win && .\install.bat
 ```
 
-## Programs...
+## Programs
 
 ```
 => Chocolatey ✔
@@ -44,8 +44,8 @@ $ git clone https://github.com/emalherbi/dotfiles-win.git && cd dotfiles-win && 
 Contributors
 ------------
 
-[Carlos Linhares](https://plus.google.com/117393571272273909691/posts)
-[Matheus Gallina](https://plus.google.com/107142612493773758504/posts)
+- [Carlos Linhares](https://plus.google.com/117393571272273909691/posts)
+- [Matheus Gallina](https://plus.google.com/107142612493773758504/posts)
 
 ## License
 
