@@ -285,12 +285,15 @@ SET PROGRAM=nodejs
 
 call chocolatey/install.bat
 
-rem ------------------------------------- Finish
+rem ------------------------------------- Install Android Studio
 
-rem TODO
-rem node/install.bat
-rem android-sdk
-rem androidstudio
+SET TITLE=Android Studio
+SET PACKAGE=androidstudio
+SET PROGRAM=androidstudio
+
+call chocolatey/install.bat
+
+rem ------------------------------------- Finish
 
 echo ===============================================================================
 echo FINISH

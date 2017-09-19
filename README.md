@@ -41,6 +41,8 @@ $ git clone https://github.com/emalherbi/dotfiles-win.git && cd dotfiles-win && 
 => TortoiseGit ✔
 => Atom ✔
 => Aptana Studio ✔
+=> Node JS ✔
+=> Android Studio ✔
 ```
 
 Contributors
