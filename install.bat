@@ -237,6 +237,22 @@ SET PROGRAM=tortoisesvn
 
 call chocolatey/install.bat
 
+rem ------------------------------------- Install Git
+
+SET TITLE=Git
+SET PACKAGE=git
+SET PROGRAM=git
+
+call chocolatey/install.bat
+
+rem ------------------------------------- Install TortoiseGit
+
+SET TITLE=TortoiseGit
+SET PACKAGE=tortoisegit
+SET PROGRAM=tortoisegit
+
+call chocolatey/install.bat
+
 rem ------------------------------------- Install Python 2
 
 SET TITLE=Python 2

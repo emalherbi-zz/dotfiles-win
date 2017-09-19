@@ -5,7 +5,7 @@ echo ProgramName - START - LAST UPDATE: 2016-07-14
 echo ===============================================================================
 
 rem examples:
-rem	start /wait Example.exe /S
+rem start /wait Example.exe /S
 rem start /wait msiexec.exe /i Example.msi /q
 
 rem ------------------------------------- ProgramName
